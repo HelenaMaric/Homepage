@@ -1,0 +1,33 @@
+nav{
+	display: flex; align-items: center; justify-content: space-between;
+}
+li{
+ list-style: none; display: inline-block;
+}
+li a{
+	text-decoration: none; color: orangered; font-weight: bold; margin-right: 25px; padding: 30px; 
+}
+a:link {
+ 	background-color: pink;
+ 	padding: 15px;
+ 	line-height: 40px;
+ 	border: 2px solid #000000;
+ }
+a:hover{
+ 	background-color: darkgray;
+ }	
+ .pozadina3{
+ 	background-image: url("pozadina3.jpg");
+ }
+ img { 
+ 	height:300px ;
+  }
+  p{ 
+     font-size: 16px;
+    line-height: 18px;
+    width: 600px;
+    background-color: antiquewhite;
+    padding: 10px;
+   }
+ h1 { font-family: HelenaMaric; color: black;
+  }
